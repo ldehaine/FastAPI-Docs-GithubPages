@@ -1,6 +1,7 @@
 # FastAPI-Docs-GithubPages
 
 Just a minimalist testing repository to see how to deploy a FastAPI app's OpenAPI documentation on Github pages.
+Generated API docs are accessible here: https://ldehaine.github.io/FastAPI-Docs-GithubPages/
 
 Feel free to copy the workflow for your own project 🙂
 
